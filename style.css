@@ -1,0 +1,21 @@
+h1{
+ color: rgba(189, 7, 7, 0.767);   
+}
+.header{
+    background-color: rgba(3, 13, 102, 0.829);
+    display: flex;
+    justify-content: space-between;
+}
+.Grid{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30;
+}
+body{
+    background-color: #444444
+}
